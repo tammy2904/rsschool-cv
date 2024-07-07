@@ -47,10 +47,10 @@ body {
     background-color: rgb(171, 245, 245);
 }
 
-.par {
+.section {
     margin: 30px;
     border: 1px solid silver;
-    padding: 16px;
+    padding: 30px;
     color: blue;
     font-size: large;
 }
