@@ -1,3 +1,30 @@
 body {
     background-color: rgb(171, 245, 245);
 }
+
+.par {
+    margin: 30px;
+    border: 1px solid silver;
+    padding: 16px;
+    color: blue;
+    font-size: large;
+}
+
+.name {
+    color: brown;
+    cursor: pointer;
+    transition:all .3s;
+}
+
+.name:hover {
+    background-color: yellow;
+}
+
+
+
+.heading {
+    color: black;
+    background-color: aquamarine;
+    font-size: larger;
+    font-weight: 500;
+}
