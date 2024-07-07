@@ -28,3 +28,9 @@ body {
     font-size: larger;
     font-weight: 500;
 }
+.img {
+    width: 200px;
+    border: 1px solid silver;
+    margin: 10px 30px;
+    background-color: rgb(55, 114, 114);
+}
